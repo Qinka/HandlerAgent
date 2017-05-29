@@ -12,6 +12,3 @@ If you want to use this, this part will be helpful.
 If there is a program named `a.exe`, you need to rename that programme to `a.hreal.exe`. Then you need to copy one this programme, and rename it to `a.exe`.
 Then you can launch it.
 
-## TODO
-
-This programme can not pass the params.
